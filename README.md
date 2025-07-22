@@ -1,1 +1,2 @@
-# lab-day-1
+obsidian://open?vault=ComputerEngineering&file=engineering-log.md
+
